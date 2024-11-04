@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>How To Play?</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: linear-gradient(to bottom, #87CEFA, #B0E0E6);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh;
+        }
+        #title {
+            font-size: 48px;
+            color: #007BFF;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        #description {
+            font-size: 24px;
+            color: #000;
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        .button {
+            padding: 15px 30px;
+            font-size: 24px;
+            color: white;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            margin: 10px;
+            width: 200px;
+            text-align: center;
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div id="title">How To Play</div>
+    <div id="description">
+        <p>Use W, A, S, D keys to move your ship.</p>
+        <p>Click the mouse to shoot bullets.</p>
+        <p>Use ESC key to Pause.</p>
+        <p>Avoid enemy ships and their bullets.</p>
+        <p>Destroy enemy ships to gain points.</p>
+        <p>Survive as long as you can!</p>
+    </div>
+    <button class="button" onclick="goBack()">Back to Title</button>
+
+    <script>
+        function goBack() {
+            window.location.href = 'Start.html';
+        }
+    </script>
+</body>
+</html>
