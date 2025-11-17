@@ -1,14 +1,15 @@
 # OperationSEA
-2024.10 - 2024.11
-
-**WEBGL + three.js**
+**2024.12 컴퓨터 그래픽스 기말 프로젝트 (WEBGL + three.js)**
 
 https://0-1-dec.github.io/OperationSEA/
 
+
 # Screenshots
 
-![화면 캡처 2024-10-31 123935](https://github.com/user-attachments/assets/20440ea0-772b-4280-81be-37cd4070ae1e)
-![화면 캡처 2024-10-31 124123](https://github.com/user-attachments/assets/ba581d4b-4e71-494d-8ba9-fdba0c912301)
+|![화면 캡처 2024-10-31 123935](https://github.com/user-attachments/assets/20440ea0-772b-4280-81be-37cd4070ae1e)|![화면 캡처 2024-10-31 124123](https://github.com/user-attachments/assets/ba581d4b-4e71-494d-8ba9-fdba0c912301)|
+|-----------------|-----------------|
+
+# Playing
 
 # Assets
 
