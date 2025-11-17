@@ -1,5 +1,5 @@
 # OperationSEA
-**2024.12 컴퓨터 그래픽스 기말 프로젝트 (WEBGL + three.js)**
+**2024.6 컴퓨터 그래픽스 기말 프로젝트 (WEBGL + three.js)**
 
 https://0-1-dec.github.io/OperationSEA/
 
